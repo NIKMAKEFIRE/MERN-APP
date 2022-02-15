@@ -1,5 +1,5 @@
 ### MERN - todo приложение с авторизацией 
->### Стек : MongoDB, Express, React js, Node js, tailwind css
+>### Стек : MongoDB, Express, React js, Node js, Typescript, tailwind css
 #### Вход в приложение доступно через обязательную авторизацию
 
 <img src="./login.png" alt="">
