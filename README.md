@@ -1,17 +1,17 @@
 #### Вход в приложение доступно через обязательную авторизацию
 
-<img src="./img/login.png" alt="">
+<img src="./login.png" alt="">
 
 #### Реализован переход на регистрацию пользователя и обратно на вход
 
-<img src="./img/registration.png" alt="">
+<img src="./registration.png" alt="">
 
 #### Реализована disabled кнопка при несовпадении заданных паролей
 
-<img src="./img/validate password.png" alt="">
+<img src="./validate password.png" alt="">
 
 #### Реализован переход на главную страницу после авторизации
 > Реализовано добавление / удаление списка
 >> Реализован выход из приложения
 
-<img src="./img/list.png" alt="">
+<img src="./list.png" alt="">
